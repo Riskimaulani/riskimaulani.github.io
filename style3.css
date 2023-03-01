@@ -1,0 +1,26 @@
+body{
+    background-color: #eb9292;
+    margin: 50px;
+}
+
+h4{
+    color: sienna;
+}
+
+a{
+    color: black;
+    margin: :right 5000px;
+}
+
+.active{
+    color: beige;
+}
+b{
+    color: rgb(224, 22, 0);
+    background-color: rgb(252, 167, 180);
+    
+}
+h1{
+    color: rgb(213, 12, 79);
+    background-color: pink;
+}
